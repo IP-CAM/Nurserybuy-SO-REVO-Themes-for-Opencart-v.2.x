@@ -1,0 +1,83 @@
+/*Add Css Custom Here*/
+
+.about-demo-1 {
+    text-align: center;
+}
+
+.about-demo-1 p {
+    line-height: 22px;
+    color: #666;
+}
+
+.about-demo-1 h3.title.font-ct {
+    text-transform: uppercase;
+    color: #000;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.about-demo-1 .image-about-us {
+    margin-bottom: 30px;
+}
+
+.about-demo-1 .about_wrapper {
+    margin-bottom: 60px;
+}
+
+.about-demo-1 .our-team-content {
+    background: #f8f8f8;
+    padding: 59px 0;
+    position: relative;
+}
+
+.our-team-content:after {
+    content: "";
+    background: #f8f8f8;
+    position: absolute;
+    width: 200%;
+    height: 100%;
+    top: 0;
+    left: -50%;
+    z-index: -1;
+}
+
+.about-demo-1 .our-team-content h3.title {
+    margin-bottom: 20px;
+}
+
+.about-demo-1 .our-team-content p.dec {
+    padding: 0 20%;
+    margin-bottom: 47px;
+}
+
+.about-demo-1 .our-team-content .member-image img {
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -o-border-radius: 50%;
+    -ms-border-radius: 50%;
+    margin-bottom: 17px;
+}
+
+.about-demo-1 .our-team-content .member .name-member {
+    text-transform: uppercase;
+    color: #000;
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.about-demo-1 .about-banner {
+    margin-top: 73px;
+}
+
+.about-demo-1 .about-banner .title {
+    text-transform: uppercase;
+    color: #000;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.about-demo-1 .about-banner .image {
+    margin-bottom: 24px;
+}
